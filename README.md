@@ -1,5 +1,6 @@
 # NASA Mission Control Project
 
+![alt text](https://github.com/mmali255/Nasa-Project/blob/main/image.jpg?raw=true)
 
 ## Running the Project
 
